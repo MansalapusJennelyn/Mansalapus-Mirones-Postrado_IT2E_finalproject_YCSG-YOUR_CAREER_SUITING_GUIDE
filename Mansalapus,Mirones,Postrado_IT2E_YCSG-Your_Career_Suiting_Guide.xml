@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE YCSG [
+
+	<!ELEMENT YCSG (Home, SHS-Tracks-and-Strands, About-Us)>
+	<!ELEMENT Home (Your-Career-Suiting-Guide)>
+	<!ELEMENT Your-Career-Suiting-Guide (subtitle, introduction, What-is-K-12, Shs-Tracks-and-Strand)>
+	<!ELEMENT What-is-K-12 (description)>
+	<!ELEMENT Shs-Tracks-and-Strand (description)>
+	<!ELEMENT SHS-Tracks-and-Strands (Academic-Track, Technical-Vocational-and-Livelihood-Track, Sports-Track, Arts-and-Design-Track)>
+	<!ELEMENT Academic-Track (description, Strands-Under-Academic-Track)>
+	<!ELEMENT Strands-Under-Academic-Track (Accountancy-and-Business-Management-ABM, Humanities-and-Social-Sciences-HUMMS, Science-Technology-Engineering-and-Mathematics-STEM, General-Academic-Strand)>
+	<!ELEMENT Technical-Vocational-and-Livelihood-Track (description, Strands-Under-Technical-Vocational-and-Livelihood-Track)>
+	<!ELEMENT Strands-Under-Technical-Vocational-and-Livelihood-Track (Agri-Fishery-Arts-Strand, Industrial-Arts-Strand, Home-Economics-HE, Information-Communication-and-Technology-ICT-Strand)>
+	<!ELEMENT Sports-Track (description)>
+	<!ELEMENT Arts-and-Design-Track (description)>
+	<!ELEMENT About-Us (description)>
+
+
+
+	<!ELEMENT Home (#PCDATA)>
+	<!ELEMENT SHS-Tracks-and-Strands (#PCDATA)>
+	<!ELEMENT About-Us (#PCDATA)>
+	<!ELEMENT Your-Career-Suiting-Guide (#PCDATA)>
+	<!ELEMENT subtitle (#PCDATA)>
+	<!ELEMENT introduction (#PCDATA)>
+	<!ELEMENT What-is-K-12 (#PCDATA)>
+	<!ELEMENT Shs-Tracks-and-Strand (#PCDATA)>
+	<!ELEMENT description (#PCDATA)>
+	<!ELEMENT Academic-Track (#PCDATA)>
+	<!ELEMENT Technical-Vocational-and-Livelihood-Track (#PCDATA)>
+	<!ELEMENT Sports-Track (#PCDATA)>
+	<!ELEMENT Arts-and-Design-Track (#PCDATA)>
+	<!ELEMENT Strands-Under-Academic-Track (#PCDATA)>
+	<!ELEMENT Accountancy-and-Business-Management-ABM (#PCDATA)>
+	<!ELEMENT Humanities-and-Social-Sciences-HUMMS (#PCDATA)>
+	<!ELEMENT Science-Technology-Engineering-and-Mathematics-STEM (#PCDATA)>
+	<!ELEMENT General-Academic-Strand (#PCDATA)>
+	<!ELEMENT Strands-Under-Technical-Vocational-and-Livelihood-Track (#PCDATA)>
+	<!ELEMENT Arts-and-Design-Track (#PCDATA)>
+	<!ELEMENT Strands-Under-Academic-Track (#PCDATA)>
+	<!ELEMENT Agri-Fishery-Arts-Strand (#PCDATA)>
+	<!ELEMENT Industrial-Arts-Strand (#PCDATA)>
+	<!ELEMENT Home-Economics-HE (#PCDATA)>
+	<!ELEMENT Information-Communication-and-Technology-ICT-Strand (#PCDATA)>
+	
+
+
+
+
+]>
+
+<YCSG> 
+	<Home>
+		<Your-Career-Suiting-Guide> 
+			<subtitle> You Dream, We Provide </subtitle>
+			<introduction> Congratulations! You are now almost done with your Junior High School years, and all of us here in Y.C.S.G know that you are still quite confused about which track and which particular strand to take in your Senior High School year. That is why; we created this website for you to be guided and for you to know more about the K-12 program of the Department of Education. Before you choose the track or strand that is right for you, you must first know what K-12 is for and the difference between Academic Tracks, Strands, and Specializations. </introduction>
+			<What-is-K-12> 
+				<description> K to 12 (also K-12) is an education system under the Department of Education that aims to enhance learners’ basic skills, produce more competent citizens, and prepare graduates for lifelong learning and employment. “K” stands for Kindergarten and “12” refers to the succeeding 12 years of basic education (6 years of elementary education, 4 years of junior high school, and 2 years of senior high school).</description> 
+			</What-is-K-12>
+			<Shs-Tracks-and-Strand> 
+				<description> Students have four general programs or tracks to choose from. Under each program, there are various specializations or strands to specialize in namely: Academic Track, Tech-Voc Track, Sports Track and Arts and Design Track. It aims to equip you with knowledge and skills that will help you prepare better for your chosen path be it higher education, employment, or entrepreneurship.</description> 
+			</Shs-Tracks-and-Strand>
+		</Your-Career-Suiting-Guide>
+	</Home>
+	<SHS-Tracks-and-Strands>
+		<Academic-Track>
+			<description> If you are looking forward to go to college then this strand is suited to you.This track will help you prepare yourself for the subject specialization of the college course you will take in the future.You have four strands in this track to choose from below. </description>
+			<Strands-Under-Academic-Track>
+				<Accountancy-and-Business-Management-ABM>The Accountancy, Business and Management (ABM) strand would focus on the basic concepts of financial management, business management, corporate operations, and all things that are accounted for. ABM can also lead you tO careers on management and accounting which could be sales manager, human resources, marketing director, project officer, bookkeeper, accounting clerk, internal auditor, and a lot more.</Accountancy-and-Business-Management-ABM>
+				<Humanities-and-Social-Sciences-HUMMS> The HUMMS strand is designed for those who wonder what is on the other side of the wall. In other words, you are ready to take on the world and talk to a lot of people. This is for those who are considering taking up journalism, communication arts, liberal arts, education, and other social science-related courses in college. </Humanities-and-Social-Sciences-HUMMS>
+				<Science-Technology-Engineering-and-Mathematics-STEM> Science, Technology, Engineering, and Mathematics are intertwining disciplines when applied in the real world. The difference of the STEM curriculum with the other strands and tracks is the focus on advanced concepts and topics. 
+				</Science-Technology-Engineering-and-Mathematics-STEM>
+				<General-Academic-Strand> General Academic Strand is great for students who are still undecided on which track to take. You can choose electives from the different academic strands under this track. These subjects include Humanities, Social Sciences, Applied Economics, Organization and Management, and Disaster Preparedness.</General-Academic-Strand>
+			</Strands-Under-Academic-Track>
+		</Academic-Track>
+		<Technical-Vocational-and-Livelihood-Track>
+			<description> If you are really not sure if you will be able to pursue any degree after Senior High or if you want to earn money immediately after graduation, then this track is for you. Even without college, Technical-Vocational-Livelihood track will equip you with job-ready skills in the future.It will gives you the TESDA National Certificate once you finished any of the strands under it that is essential when looking for better career opportunities in agriculture, electronics, and trade. This is also important when applying abroad where the skills you gain would prepare you as you join the workforce.</description>
+			<Strands-Under-Technical-Vocational-and-Livelihood-Track> 
+				<Agri-Fishery-Arts-Strand> The Agri-Fishery strand was designed for hands-on learning and application of skills that are related to agriculture and aquaculture. You will be taking various subjects that are connected to other jobs such as food processing, rubber production, animal production, or landscape installation.</Agri-Fishery-Arts-Strand>
+				<Industrial-Arts-Strand> Technical Livelihood Education subjects under this track are following the TESDA curriculum so if you are thinking of taking any of technical-vocational courses, this is the strand you should take. Industrial Arts will provide you the skills and knowledge on carpentry, automotive servicing, driving, electronics repair, electrical installation, welding, plumbing, and tile setting.</Industrial-Arts-Strand>
+				<Home-Economics-HE> The Home Economics track offers various specializations that can lead to livelihood projects at home. This strand aims to give you job-ready skills that can help you in finding the right employment. </Home-Economics-HE>
+				<Information-Communication-and-Technology-ICT-Strand> If you are computer-savvy or a technological freak, step right into the ICT strand. Under this strand, you will be encouraged to utilize information and communication technological tools to contextualize, collaborate, and create experiences for learning in this professional strand. </Information-Communication-and-Technology-ICT-Strand>
+			</Strands-Under-Technical-Vocational-and-Livelihood-Track>
+		</Technical-Vocational-and-Livelihood-Track>
+		<Sports-Track>
+			<description> The Sports Track aims to give you understanding of the basic principles and techniques in relation to physical education and recreation. It will also offer you discuss various factors that affect social, psychological, and cognitive development in sports leadership and management.Professions that are related in this track are fitness trainers, game officials, tournament manager, recreation attendant, masseur, or gym instructor.</description>
+		</Sports-Track>
+		<Arts-and-Design-Track>
+			<description> If you want to unleash the artist in you in your future career path, then the Arts and Design track is suited for you. This program is designed for students who want to further enhance their creativity and the effectiveness of their artistic expression.The students who are under this program are provided with the knowledge of different types of arts of various forms. The elements of dance, music, theater, media, photography, and visual arts will be introduced to you, and you will be taught how to apply different concepts in it the global setting. </description>
+		</Arts-and-Design-Track>
+
+	</SHS-Tracks-and-Strands>
+	<About-Us>
+		<description> Y.C.S.G is a privately owned. It is one of the largest online youth platform in the Philippines empowering millions of students aged 13 to 18 to make self-aware education decisions that lead to a fulfilling career and life. Students use our website to gain access to the Senior High School strand, Personality Quizzes, Aspiration Quizzes and Field of Interest that enable them to find and take SHS Track and Strand best suited to their own interest, skills, passion and priorities. We are the Y. C. S. G team whom concern and want to help some incoming senior highschool students who are afraid to make a choice especially in finding what the best path for them. We believe that onceu you choose a strand you like, studying becomes more interesting especially if it is align to your personality and ability. </description>
+	</About-Us>
+
+
+</YCSG>
